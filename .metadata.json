@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bfsMaps",
+    "oncran": true
+  },
+  {
+    "package": "DescTools",
+    "oncran": true
+  },
+  {
+    "package": "DescToolsAddIns",
+    "oncran": true
+  }
+]
