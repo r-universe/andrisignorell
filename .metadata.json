@@ -1,9 +1,5 @@
 [
   {
-    "package": "bfsMaps",
-    "oncran": true
-  },
-  {
     "package": "DescTools",
     "oncran": true
   },
