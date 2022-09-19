@@ -3,13 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DescTools"]
-	path = DescTools
-	url = https://github.com/andrisignorell/desctools
-	shallow = true
-	registered = true
-[submodule "DescToolsAddIns"]
-	path = DescToolsAddIns
-	url = https://github.com/andrisignorell/desctoolsaddins
-	shallow = true
-	registered = true
