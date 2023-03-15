@@ -18,3 +18,8 @@
 	url = https://github.com/andrisignorell/desctoolsaddins
 	shallow = true
 	registered = true
+[submodule "ModTools"]
+	path = ModTools
+	url = https://github.com/andrisignorell/modtools
+	shallow = true
+	registered = true

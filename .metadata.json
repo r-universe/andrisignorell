@@ -10,5 +10,9 @@
   {
     "package": "DescToolsAddIns",
     "oncran": true
+  },
+  {
+    "package": "ModTools",
+    "oncran": true
   }
 ]
