@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bfsMaps"]
-	path = bfsMaps
-	url = https://github.com/andrisignorell/bfsmaps
 [submodule "DescTools"]
 	path = DescTools
 	url = https://github.com/andrisignorell/desctools
@@ -14,3 +11,6 @@
 [submodule "ModTools"]
 	path = ModTools
 	url = https://github.com/andrisignorell/modtools
+[submodule "bfsMaps"]
+	path = bfsMaps
+	url = https://github.com/andrisignorell/bfsmaps
