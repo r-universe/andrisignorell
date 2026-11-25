@@ -17,3 +17,6 @@
 [submodule "bfsMaps"]
 	path = bfsMaps
 	url = https://github.com/andrisignorell/bfsmaps
+[submodule "pharos"]
+	path = pharos
+	url = https://github.com/andrisignorell/pharos
